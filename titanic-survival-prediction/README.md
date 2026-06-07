@@ -80,10 +80,9 @@ Used graphs to extract insights:
 
 ### 5. Model Evaluation 📉
 - Accuracy Score
-- Confusion Matrix
-- Classification Report (Precision, Recall, F1-score)
 
-📌 Final Accuracy: **(Add your score here after running model)**
+
+📌 Final Accuracy: **0.858**
 
 ---
 
